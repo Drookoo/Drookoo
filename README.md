@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm an engineer at the City of NY working on Google Cloud, K8s, microservices, and Linux. 
+🔭 I'm an engineer at the City of NY working on Google Cloud, K8s, microservices, and Linux. 
 
-Ask me about my homelab, my talks at infosec cons, and DevSecOps.
+:sparkles: Ask me about my homelab, my talks at infosec cons, and DevSecOps.
 
-Yes Ku is short for Kubernetes :wink:
+:skull: Yes Ku is short for Kubernetes :wink:
 
 <!--
 **Drookoo/Drookoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
