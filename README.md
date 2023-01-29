@@ -2,6 +2,8 @@
 
 I'm an engineer at the City of NY working on Google Cloud, K8s, microservices, and Linux. 
 
+Ask me about my homelab, my talks at infosec cons, and DevSecOps.
+
 <!--
 **Drookoo/Drookoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
