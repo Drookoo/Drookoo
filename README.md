@@ -4,7 +4,7 @@
 
 :sparkles: Ask me about my homelab, my talks at infosec cons, and DevSecOps.
 
-:skull: Yes, Ku is short for Kubernetes :wink:
+:skull: Yes, Ku is short for Kubernetes. My full name? :wink:
 
 <!--
 **Drookoo/Drookoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
